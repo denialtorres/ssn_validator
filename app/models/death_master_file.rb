@@ -1,3 +1,3 @@
-class DeathMasterFile < ActiveRecord::Base
+class DeathMasterFile
 
 end
