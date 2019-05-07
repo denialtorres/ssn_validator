@@ -1,3 +1,3 @@
-class SsnHighGroupCode < ActiveRecord::Base
+class SsnHighGroupCode
 
 end
